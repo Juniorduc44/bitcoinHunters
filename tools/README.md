@@ -1,7 +1,7 @@
 This section provides tools and SOPs for our hunt, including `steghide` and `stegseek`, to hide and seek data in JPEG images.
 
 ### What's Here
-- **Crack Passwords**: Use `stegseek` to find passwords for hidden data.
+- **Crack Passwords**: Use `stegseek` to find passwords for hidden data. Checkout [Original](https://github.com/RickdeJager/stegseek) repo.
 - **Hide Data**: Embed files in images with `steghide`.
 - **Extract Data**: Retrieve hidden files from stego images.
 
