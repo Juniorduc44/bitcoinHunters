@@ -5,4 +5,4 @@ This section provides tools and SOPs for our hunt, including `steghide` and `ste
 - **Hide Data**: Embed files in images with `steghide`.
 - **Extract Data**: Retrieve hidden files from stego images.
 
-Check the [SOPs](./steg_tools.md) for detailed instructions.
+Check the [SOPs](./steg_tools_linux.md) for detailed instructions.
