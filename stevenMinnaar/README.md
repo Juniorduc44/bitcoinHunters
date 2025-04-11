@@ -3,12 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="20250401_115216-scaled.jpg" alt="Illustration from website" width="600">
+  <img src="./stevenMinnaar_photo.png" alt="Illustration from website" width="600">
 </div>
 
 
 <div align="center">
-  <h3>https://stevenminnaar.com/</h3>
+  <h3>https://stevenminnaar.com/treasure</h3>
 </div>
 
 
