@@ -1,0 +1,40 @@
+ExifTool Version Number         : 12.40
+File Name                       : nft.png
+Directory                       : .
+File Size                       : 38 MiB
+File Modification Date/Time     : 2025:04:07 19:21:14-04:00
+File Access Date/Time           : 2025:04:07 19:21:14-04:00
+File Inode Change Date/Time     : 2025:04:07 19:21:38-04:00
+File Permissions                : -rw-rw-r--
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 5701
+Image Height                    : 5701
+Bit Depth                       : 8
+Color Type                      : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+Pixels Per Unit X               : 2835
+Pixels Per Unit Y               : 2835
+Pixel Units                     : meters
+XMP Toolkit                     : Adobe XMP Core 7.0-c000 79.217bca6, 2021/06/14-18:28:11
+Creator Tool                    : Adobe Photoshop 22.3 (Windows)
+Create Date                     : 2021:08:01 10:03:06+09:00
+Modify Date                     : 2021:08:01 13:43:33+09:00
+Metadata Date                   : 2021:08:01 13:43:33+09:00
+Format                          : image/png
+Color Mode                      : RGB
+ICC Profile Name                : sRGB IEC61966-2.1
+Instance ID                     : xmp.iid:d1e40a60-9f38-ab47-b963-35f8c17357a0
+Document ID                     : xmp.did:90ffd85d-6194-ca43-b8ee-a30bb7ee688c
+Original Document ID            : xmp.did:90ffd85d-6194-ca43-b8ee-a30bb7ee688c
+Document Ancestors              : 01382216D35927FD6CAF7F2235EE126C, 0AEB3EFE32B8334DA0F36C49E050D29E, 1F421FA8BA215C7D2BC77AB53D37CF39, 1F4C02B7DFAF7BD465F4B40A052AA3B0, 2F136BD20DB20EE9668CC5311D223F09, 4766E4DBF2475C7FBE17E4C8B2C1D004, 500C08FD0FD87DA8058093A58283AE19, 669CC1F8C3F3407A1F27D468CBB6E34B, 7F4A1AA0F00564476D75BB5AA2CC0A75, 8AE5CB59EC1EB93F94B4A5820CBA1A48, 96933D92EE329227306E7EFAA0B499C9, 9D5BFF8791EA39EB06144D0A313F4482, B2B4721957AA74D8A3077255833D03D7, B31468596E42861A268F046602B89B1F, C300184C4B5B2B1BE5A9EEB5B14B334B, D759BD4C977D8A4977804D0030636B79, D7ED8F810FFFF74AD2198CB64579E809, EF93D9D340986C28B2DA047EE0E000E1, F0097C430F38E17B2BF353BD83EAD765, adobe:docid:photoshop:01dbde29-5d9f-5543-9e02-da41b2ab733c, adobe:docid:photoshop:05ab0f27-f9cf-114a-9038-7788fb0e5732, adobe:docid:photoshop:0e539077-254b-2c4d-a6e4-6b4a106b9f25, adobe:docid:photoshop:14471e8f-b01d-b942-bb9d-542e86b07283, adobe:docid:photoshop:15268bc1-0096-11e8-99dd-f61facf85797, adobe:docid:photoshop:17d51e66-0e92-117e-abdb-810d2033d058, adobe:docid:photoshop:197514f7-9638-1f47-9048-1f76454dbdca, adobe:docid:photoshop:29ad62c6-b236-914d-9ce7-2120fd8261a0, adobe:docid:photoshop:2d73f26e-9726-117e-b2f9-96efe9f69e22, adobe:docid:photoshop:30f76541-9677-117e-b2f9-96efe9f69e22, adobe:docid:photoshop:35e07440-7728-2749-8317-5d520a97f74a, adobe:docid:photoshop:39eb2cc1-739f-11e8-adea-8ecf141440ba, adobe:docid:photoshop:3ed1b58d-8105-5c4a-849b-665aba8b2bac, adobe:docid:photoshop:42736363-c76b-d547-a7bb-8dc7255af54f, adobe:docid:photoshop:43c38c42-9726-117e-b2f9-96efe9f69e22, adobe:docid:photoshop:4e637030-9725-117e-b2f9-96efe9f69e22, adobe:docid:photoshop:4ffeb611-9726-117e-b2f9-96efe9f69e22, adobe:docid:photoshop:515fa965-1eaa-11e7-9780-e9c55c5480b9, adobe:docid:photoshop:536d09ae-9737-117e-b2f9-96efe9f69e22, adobe:docid:photoshop:543e50c2-870d-117e-81a7-ea7553bb13c7, adobe:docid:photoshop:5d9e143f-c2ce-11ea-b260-b744a2c87f60, adobe:docid:photoshop:6083743d-37f6-5841-8c2c-661310bf4d16, adobe:docid:photoshop:6ad50ba6-34c8-11e6-88e0-ec952bf2f38b, adobe:docid:photoshop:6cf48b72-e8e0-174d-9611-ba2a0177f09c, adobe:docid:photoshop:6d659d05-9726-117e-b2f9-96efe9f69e22, adobe:docid:photoshop:89fbfd7c-5765-5643-ad14-3ea2f0ed0aab, adobe:docid:photoshop:8cf2a862-34c6-11e6-88e0-ec952bf2f38b, adobe:docid:photoshop:8df2e528-9725-117e-b2f9-96efe9f69e22, adobe:docid:photoshop:8e151c91-5ffa-384a-8dc2-903b33b97ba7, adobe:docid:photoshop:98de22fb-42f3-11e7-9320-80bb61f7c27e, adobe:docid:photoshop:9a4da673-9726-117e-b2f9-96efe9f69e22, adobe:docid:photoshop:9ab9b5f1-0e9a-117e-abdb-810d2033d058, adobe:docid:photoshop:9cc19258-b325-1178-9a03-94be5f4cbb5a, adobe:docid:photoshop:9ddc6151-f51e-e24e-a6df-9ecdd8f9b159, adobe:docid:photoshop:a0afcdc2-db59-11e5-aa60-dfd5fdf37e33, adobe:docid:photoshop:b5a7866a-9725-117e-b2f9-96efe9f69e22, adobe:docid:photoshop:bab265ed-fdad-11e5-8a71-87aaa2997146, adobe:docid:photoshop:bb3bdf82-f854-d04e-84a2-507baeee55ad, adobe:docid:photoshop:bcba313b-34c6-11e6-88e0-ec952bf2f38b, adobe:docid:photoshop:d2fefac3-9726-117e-b2f9-96efe9f69e22, adobe:docid:photoshop:df8e8a53-34c7-11e6-88e0-ec952bf2f38b, adobe:docid:photoshop:eb6c1cde-9725-117e-b2f9-96efe9f69e22, adobe:docid:photoshop:f1865992-121c-117e-8a65-f8340b1d723d, uuid:59CB5F0867E4E011980B8E3EB217D805, uuid:9658B918A8ABE411BC2EF4066D3397EE, uuid:96CD456DA8ABE411BC2EF4066D3397EE, uuid:C558364E8CC1E4119B99CB7B09DB0939, xmp.did:34037c13-8806-4a45-a9c4-73a92a687a9f, xmp.did:39bfb2a0-3423-9844-a47a-113b76ef8ec3, xmp.did:47eea407-bf95-c44c-b712-22f2218314ee, xmp.did:61eec82c-f7c8-c64b-baea-babfe8d98b07, xmp.did:63CCD572D3FFE7118373C94E3DA0357F, xmp.did:6CBB9B4B3A89E5118A328C6B2352CBEB, xmp.did:6ca250df-1b57-2a49-8a53-97f84da713ea, xmp.did:706fc3d8-b687-7b47-8657-cbeb9f33e855, xmp.did:7829150d-8cf5-b444-aa3a-a696f94f289e, xmp.did:7A07DA97BEFFE7118373C94E3DA0357F, xmp.did:7EE91984D3FFE7118373C94E3DA0357F, xmp.did:870f9181-0004-4744-bbad-12da2c6db402, xmp.did:89dee4f6-98a0-4f4b-a4a3-00bfe9166b69, xmp.did:8bd95c03-3ce7-5f4c-a466-20fe0f19b73d, xmp.did:8d222b5a-ebb4-4648-914f-3276b31a82e9, xmp.did:9763c22a-cc2a-407b-be03-3151775f85bd, xmp.did:9d646032-a6f2-2644-a121-bc1ca1401082, xmp.did:9debf30c-9346-d048-84d5-c4e0468f6648, xmp.did:CE9A8C9EBEFFE7118373C94E3DA0357F, xmp.did:aad77a3b-6c8b-2048-940c-5a2d30a464f6, xmp.did:b43ce9b6-a05f-45f4-ba44-5ebfc47ecaae, xmp.did:c1f8dc07-316b-2443-8162-887287f07334, xmp.did:e091d1fc-1e05-104f-b2a5-e161441ea5fc, xmp.did:f1c31ba7-40ce-8d40-8a07-9527190c1da4, xmp.did:fb97c22c-6b3c-7141-9ea8-b054bb3bdd5c
+History Action                  : saved, saved
+History Instance ID             : xmp.iid:90ffd85d-6194-ca43-b8ee-a30bb7ee688c, xmp.iid:d1e40a60-9f38-ab47-b963-35f8c17357a0
+History When                    : 2021:08:01 10:54:28+09:00, 2021:08:01 13:43:33+09:00
+History Software Agent          : Adobe Photoshop 22.4 (Windows), Adobe Photoshop 22.4 (Windows)
+History Changed                 : /, /
+Image Size                      : 5701x5701
+Megapixels                      : 32.5
