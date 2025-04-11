@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="./nft.png" alt="Sunken Treasure Illustration" width="600">
+  <img src="https://github.com/HomelessPhD/AsAbove_SoBelow/blob/59935c839bd73cb65904afa5d3c8c0351dedab55/pics/nft.jpg" alt="Sunken Treasure Illustration" width="600">
 </div>
 
 <div align="center">
