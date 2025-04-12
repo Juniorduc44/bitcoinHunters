@@ -26,5 +26,6 @@
     - 1J6PYEZR4CUOGBNXRELYHSZOTSZ3WCSCAJ
 
   ## Letters on the bitcoin logo
-    - 51a3neyj53m152gaautt5gn1an03rth3a3t5r3ggd0y0u0ur3a1yth1k1ntn05g3tbnaha5a3ty
-    - 51a3neyj53m152gaautt5gn1an0b3rth3a3t5r399d0y0u0ur3a1yth1k1ntn05g3tbnaha5a3ty
+    ### scattered_char_Left.png & scattered_char_Right.png
+      - 51a3neyj53m152gaautt5gn1an03rth3a3t5r3ggd0y0u0ur3a1yth1k1ntn05g3tbnaha5a3ty
+      - 51a3neyj53m152gaautt5gn1an0b3rth3a3t5r399d0y0u0ur3a1yth1k1ntn05g3tbnaha5a3ty
