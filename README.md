@@ -27,6 +27,20 @@ Welcome to **bitcoinHunters**, where the thrill of the chase meets the mystery o
 </br>
 </br>
 </br>
+
+
+<div align="center">
+  <h3>Additional Communities</h3>
+  <h4>Connect and support HomelessPHD for more notes:</h4>
+  <div align="center">
+    <h4><a href="https://github.com/HomelessPhD/AsAbove_SoBelow?tab=readme-ov-file">github.com/HomelessPhD/AsAbove_SoBelow</a></h4>    
+  </div>
+</div>
+
+
+</br>
+</br>
+</br>
 </br>
 
 </br>
